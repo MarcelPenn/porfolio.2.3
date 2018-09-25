@@ -1,0 +1,15 @@
+body {
+  background-image: url("https://res.cloudinary.com/marpenncloud/image/upload/v1537834760/pexels-photo-126590_cwqotk.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+
+.sectionOne {
+  text-align: center;
+}
+
+header {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
